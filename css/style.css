@@ -224,7 +224,7 @@ h2{
 }
 
 .banner{
-    background: url(../_images/sniper.jpg);
+    background: url(../images/sniper.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
