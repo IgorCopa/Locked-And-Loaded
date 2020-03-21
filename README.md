@@ -1,10 +1,3 @@
-## ###########################################
-##                                                                                                                        ##
-##  This is a website I created to put on my portfolio.                       ##
-##  I also created few more pages to put push on the following   ##
-##  weeks, but I want to use different technologies, other than   ##
-##  just HTML5 and CSS3.                                                                            ##
-##                                                                                                                        ##
-##                                    Igor Oliveira                                                            ##
-##                                                                                                                        ##
-## ###########################################
+## This is a website I created to fill up my portfolio.
+
+You can see it here: https://igorcopa.github.io/locked-and-loaded/
